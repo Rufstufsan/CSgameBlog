@@ -1,2 +1,2 @@
-# Portfolio
-A place for my projects to be displayed
+# Game blog
+This is where i store and develop my own game blog for the course DH2650
