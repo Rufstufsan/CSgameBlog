@@ -1,5 +1,4 @@
-28/3
+Today we had another meeting with the group where we divided the workload amongst each other. We managed to create a 3D model team, Which I am a part of, a coding/unity team, and finally a concept and GDD management team. We also decided that we should start working for a few hours so that we have something to display for the demo due on 31/3.
 
-Today we had another meeting with the group where we divided the workload amongst eachother. We managed to create a 3D model team, Which I am a part of, and a coding/unity team and finaly a concept and GDD management team. We also desided that we should start working for a few hours so that we have something to display for the demo that is due 31/3.
+I started to work a little bit whit the 3D modeling, I am supposed to create the main character aswell as the enemies and some of the props of the game. While waiting for my team member to sketch the characters, I created a flower platform from which the player would spawn.
 
-I started to work a little bit whit the 3D modelling, i am supposed to create the main character aswell as the enemies and some of the props of the game. While waiting for my team member to sketch the characters i decided to creat a flower platform where the player will spawn from.

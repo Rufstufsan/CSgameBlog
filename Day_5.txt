@@ -1,0 +1,4 @@
+The progress of the project has been very slow up until this moment. But today I sat down to refine one of the enemies a bit for it to be easily modified into unity. I re-modeled the rat enemy so it would have wheels instead of legs, this will create easier movements och modification for the enemies. I also put some textures on the rat and exported it as an FBX file so I could implement it in Unity. When the model was implemented to unity I created an easy script for the movement of the rat. The script works in that way when the rat moves forward it will tilt up a bit and the wheels will start spinning forward. When the rat moves backward the rat will tilt down a bit and the wheels will rotate backward. For the rotation and tilting of the rat, I used the unity quaternion.euler [1] function to transform the local rotation of the game objects.
+
+[1] Unity Technologies, Quaternion, 2023, URL: https://docs.unity3d.com/ScriptReference/Quaternion.html
+

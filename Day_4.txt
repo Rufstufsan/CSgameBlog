@@ -1,0 +1,1 @@
+Today we were putting together all we needed for the demo. Not a lot of changes were made since the last update, but we created an interactive unity scene that we displayed for the audience and a simple presentation of the work progress that has been made for the unity project. 
